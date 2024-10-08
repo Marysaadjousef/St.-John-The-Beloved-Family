@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064540716429",
+    "project_id": "habat-khardal-a9a1f",
+    "storage_bucket": "habat-khardal-a9a1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064540716429:android:75fb20bc69fa0e5962d1c4",
+        "android_client_info": {
+          "package_name": "com.example.habat_khardal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMPjmzIhP3T-Qefk6oWFHdXVSA0CUXXB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
