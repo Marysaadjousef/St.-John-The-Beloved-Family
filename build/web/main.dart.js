@@ -43167,13 +43167,11 @@ $.c5().n(0,p,o)
 return p},
 fK(a){return A.awn(this,this.gD1(),a)},
 grz(){return this.e},
-srz(a){var s,r,q=a.a
-this.e=this.e.aji(a.d,a.b,!1,q,a.c)
-if(q==null||!q)s=self.firebase_firestore.memoryLocalCache(null)
-else{q=self.firebase_firestore
-s=q.persistentLocalCache(t.e.a({cacheSizeBytes:null}))}q=t.e
-r=q.a({timeoutSeconds:null})
-this.d=q.a({ignoreUndefinedProperties:!1,experimentalForceLongPolling:null,experimentalAutoDetectLongPolling:null,experimentalLongPollingOptions:r,localCache:s})}}
+srz(a){var s,r=a.a
+this.e=this.e.aji(a.d,a.b,!1,r,a.c)
+if(r==null||!r)s=self.firebase_firestore.memoryLocalCache(null)
+else{r=self.firebase_firestore
+s=r.persistentLocalCache(t.e.a({cacheSizeBytes:null}))}this.d=t.e.a({ignoreUndefinedProperties:!1,experimentalForceLongPolling:null,experimentalAutoDetectLongPolling:null,localCache:s})}}
 A.Kd.prototype={
 geP(){return this.y.a.path},
 fK(a){var s=this.y.a
